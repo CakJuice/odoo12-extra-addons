@@ -11,6 +11,10 @@ Add configuration to set send mail limit
     'website': "https://cakjuice.com",
     'category': 'Discuss',
     'version': '12.0.1',
+    'images': [
+        'static/description/main_screenshot.png',
+        'static/description/ss_configuration.png',
+    ],
     'depends': [
         'mail',
     ],
